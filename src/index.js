@@ -1,4 +1,3 @@
-import '@babel/polyfill'
 import "react-app-polyfill/ie11.js";
 import "react-app-polyfill/stable.js";
 
